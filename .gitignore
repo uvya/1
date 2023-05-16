@@ -6,3 +6,4 @@ public static long computeFactorial(int n) {
         }
     }
 }
+1
